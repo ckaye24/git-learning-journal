@@ -65,4 +65,7 @@ my first challenge, where I created a controller, a view, and a route.
 ## August 4, 2025 (MONDAY)
 - I continued working on my Laravel project: applied styles, created the first model, migration, controller, and routes. I also registered resource routes and completed the challenge to create a new resource by following the tutorial step by step.
 
+## August 11, 2025 (MONDAY)
+- I continued watching the tutorial videos and tried adding an index method to fetch all notes.
+
 
